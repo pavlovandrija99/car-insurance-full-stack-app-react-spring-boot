@@ -1,0 +1,8 @@
+ul.no-bullets {
+  list-style-type: none;
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+}
